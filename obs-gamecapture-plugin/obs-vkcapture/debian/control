@@ -1,4 +1,4 @@
-Source: obs-gamecapture-plugin
+Source: libx86
 Section: video
 Priority: optional
 Maintainer: Ward Nakchbandi <hotrod.master@hotmail.com>
