@@ -1,3 +1,9 @@
+ffmpeg (11:5.1.2-99pika1) kinetic; urgency=medium
+
+  * Update to release 5.1.2 and build against libamf 1.4.28
+
+ -- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
 ffmpeg (11:5.1.1-99pika1) kinetic; urgency=medium
 
   * Rebrand to PikaOS

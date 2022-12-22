@@ -1,3 +1,9 @@
+nvidia-vaapi-driver (10:0.0.8-99pika1) kinetic; urgency=medium
+
+  * Upgrade to release 0.0.8 and switch to direct backend
+
+ -- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
 nvidia-vaapi-driver (10:0.0.7-99pika2) kinetic; urgency=medium
 
   * Fix profile script

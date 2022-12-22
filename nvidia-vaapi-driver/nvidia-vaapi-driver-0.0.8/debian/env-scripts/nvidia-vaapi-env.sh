@@ -11,6 +11,7 @@ then
 echo "NVIDIA Driver detected. setting env-v vars for va-api."
 export LIBVA_DRIVER_NAME=nvidia
 export MOZ_DISABLE_RDD_SANDBOX=1
+export NVD_BACKEND=direct
 export EGL_PLATFORM=$XDG_SESSION_TYPE
 else
 echo "No NVIDIA Driver detected. No env vars set for va-api."
