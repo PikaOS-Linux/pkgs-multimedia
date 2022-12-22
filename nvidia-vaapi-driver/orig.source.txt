@@ -1,2 +1,2 @@
-nvidia-vaapi-driver_0.0.7.orig.tar.xz
+nvidia-vaapi-driver_0.0.8.orig.tar.xz
 #https://github.com/elFarto/nvidia-vaapi-driver
