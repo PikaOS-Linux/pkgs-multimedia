@@ -1,2 +1,2 @@
-AMF_1.4.26.orig.tar.xz
+AMF_1.4.28.orig.tar.gz
 #https://github.com/GPUOpen-LibrariesAndSDKs/AMF

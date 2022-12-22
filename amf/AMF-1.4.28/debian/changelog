@@ -1,3 +1,9 @@
+amf (1.4.28-99pika1) kinetic; urgency=medium
+
+  * Update to 1.4.28
+
+ -- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
 amf (1.4.26-99pika1) kinetic; urgency=medium
 
   * Rebrand to PikaOS
