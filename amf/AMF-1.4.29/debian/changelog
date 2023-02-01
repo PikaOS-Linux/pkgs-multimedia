@@ -1,3 +1,9 @@
+amf (1.4.29-99pika1) kinetic; urgency=medium
+
+  * Update to 1.4.29
+
+ -- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
 amf (1.4.28-99pika1) kinetic; urgency=medium
 
   * Update to 1.4.28
